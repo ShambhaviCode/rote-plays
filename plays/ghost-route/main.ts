@@ -7,6 +7,7 @@
  * ---
  * name: ghost-route
  * description: Find remaining code, issue, pull request, test, and documentation references to an API, feature, configuration key, command, or concept being removed.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/ghost-route
  * provenance:
  *   author: shambhavi <mkshambhavi966@gmail.com>
  * metadata:

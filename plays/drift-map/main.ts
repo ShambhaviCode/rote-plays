@@ -4,6 +4,7 @@
  * ---
  * name: drift-map
  * description: Identify drift between expected repository configuration and the current project state.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/drift-map
  * provenance:
  *   author: shambhavi <mkshambhavi966@gmail.com>
  * parameters:

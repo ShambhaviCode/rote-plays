@@ -7,8 +7,9 @@
  * @rote-frontmatter
  * ---
  * name: shipcheck
+ * description: "Audit a software repository for production-readiness risks and produce an evidence-backed release report."
  * version: 0.1.0
- * description: |
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/shipcheck
  *   Audits a software repository and produces a concise, evidence-backed production-readiness report. It inspects repository structure, README and documentation, dependency/runtime requirements, environment/configuration requirements, authentication and security-sensitive implementation, tests and CI, and build/deployment configuration. It does not modify the repository.
  * provenance:
  *   author: Shambhavi

@@ -9,6 +9,7 @@
  * name: devfix
  * version: 0.1.0
  * description: Read-only repository failure triage with evidence-backed fixes.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/devfix
  * provenance:
  *   author: Shambhavi
  * license: MIT

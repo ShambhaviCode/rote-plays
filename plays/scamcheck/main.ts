@@ -3,6 +3,7 @@
  * ---
  * name: scamcheck
  * description: Screen suspicious messages for common scam warning signals.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/scamcheck
  * provenance:
  *   author: Shambhavi
  * license: MIT

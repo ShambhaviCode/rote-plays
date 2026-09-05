@@ -8,8 +8,9 @@
  * @rote-frontmatter
  * ---
  * name: envguard
+ * description: "Check a repository for unsafe or inconsistent environment-variable usage and surface actionable configuration risks."
  * version: 0.1.0
- * description: |
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/envguard
  *   Audits repository environment configuration without modifying the repository.
  *   Detects environment variables used by application code, compares them with
  *   .env.example, and provides file/line evidence for undocumented variables.

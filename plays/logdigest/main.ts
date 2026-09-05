@@ -3,6 +3,7 @@
  * ---
  * name: logdigest
  * description: Compresses noisy application logs into clustered error evidence for faster debugging.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/logdigest
  * provenance:
  *   author: Shambhavi
  * license: MIT

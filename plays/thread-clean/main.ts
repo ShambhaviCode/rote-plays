@@ -4,6 +4,7 @@
  * ---
  * name: thread-clean
  * description: Turn a noisy discussion thread into clear decisions, open questions, and actionable next steps.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/thread-clean
  * tags:
  * - productivity
  * - communication

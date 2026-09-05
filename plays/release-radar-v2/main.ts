@@ -4,6 +4,7 @@
  * ---
  * name: release-radar-v2
  * description: Inspect a repository for release readiness by checking working-tree state, change summary, latest commit, and test status.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/release-radar-v2
  * provenance:
  *   author: shambhavi <mkshambhavi966@gmail.com>
  * metadata:

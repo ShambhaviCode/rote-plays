@@ -4,6 +4,7 @@
  * ---
  * name: change-lens
  * description: Analyze a Git diff and produce an evidence-backed impact map of files, references, risks, and next checks.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/change-lens
  * provenance:
  *   author: shambhavi <mkshambhavi966@gmail.com>
  * parameters:

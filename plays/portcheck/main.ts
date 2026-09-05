@@ -3,6 +3,7 @@
  * ---
  * name: portcheck
  * description: Checks whether a local TCP port is available for development.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/portcheck
  * provenance:
  *   author: Shambhavi
  * license: MIT

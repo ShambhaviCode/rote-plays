@@ -4,6 +4,7 @@
  * ---
  * name: docfix
  * description: Detect and organize documentation issues so repository docs stay clear and actionable.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/docfix
  * provenance:
  *   author: shambhavi <mkshambhavi966@gmail.com>
  * metadata:

@@ -7,6 +7,7 @@
  * ---
  * name: config-trap
  * description: "Find inconsistent uses of an environment variable, configuration key, feature flag, or deployment setting across source code, CI, tests, deployment files, and documentation."
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/config-trap
  * provenance:
  *   author: "shambhavi <mkshambhavi966@gmail.com>"
  * metadata:

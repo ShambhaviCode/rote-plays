@@ -4,6 +4,7 @@
  * ---
  * name: InboxTriage
  * description: Turn inbox items into a structured triage result with priorities and next actions.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/InboxTriage
  * provenance:
  *   author: shambhavi <mkshambhavi966@gmail.com>
  * metadata:

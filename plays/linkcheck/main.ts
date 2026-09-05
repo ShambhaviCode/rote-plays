@@ -3,6 +3,7 @@
  * ---
  * name: linkcheck
  * description: Checks a list of URLs and reports reachable, broken, redirected, and HTTP status results.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/linkcheck
  * provenance:
  *   author: Shambhavi
  * license: MIT

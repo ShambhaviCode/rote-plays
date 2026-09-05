@@ -5,6 +5,7 @@
  * name: meeting-to-action
  * flow_name: meetingtoaction
  * description: Turn meeting notes into structured decisions, action items, owners, and follow-ups.
+ * source_url: https://github.com/ShambhaviCode/rote-plays/tree/main/plays/MeetingToAction
  * provenance:
  *   author: shambhavi <mkshambhavi966@gmail.com>
  * parameters:
