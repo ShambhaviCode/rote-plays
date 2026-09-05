@@ -1,0 +1,10 @@
+schema_version = 1
+
+[[tools]]
+id = "python3"
+command = "python3"
+required = true
+
+[[tools.install]]
+manager = "apt"
+package = "python3"
